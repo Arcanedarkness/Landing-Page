@@ -90,6 +90,11 @@ body {
     display: flex;
 }
 
+.illustration-wrapper {
+    max-width: 200px;
+    text-align: center;
+}
+
 .illustration {
     box-sizing: border-box;
     height: 200px;
