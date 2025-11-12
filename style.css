@@ -36,7 +36,7 @@ body {
     display: flex;
 }
 
-.card-one-leftside {
+.card-one-left-side {
     display: flex;
     flex-direction: column;
     width: 50%;
