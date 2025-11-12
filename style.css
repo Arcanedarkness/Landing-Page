@@ -41,7 +41,7 @@ body {
     font-weight: 900;
 }
 
-.card-one-subtext {
+.card-one-subtext, .image-placeholder{
     color: #E5E7EB;
     font-size: 18px;
 }
