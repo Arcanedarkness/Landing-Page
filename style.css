@@ -89,3 +89,9 @@ body {
 .figure-container {
     display: flex;
 }
+
+.illustration {
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 5%;
+}
