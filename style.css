@@ -103,3 +103,7 @@ body {
     border-color: #3882F6;
     border-radius: 5%;
 }
+
+figcaption {
+    color: #6D747D;
+}
