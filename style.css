@@ -4,5 +4,9 @@ body {
 }
 
 .header-container {
-    background-color: #1F2937;
+    background-color: #1F2937;  
+}
+
+.header {
+    color: #F9FAF8;
 }
