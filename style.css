@@ -32,6 +32,8 @@ body {
 
 .card-container-one {
     background-color: #1F2937;
+    padding: 5% 15% 5% 15%;
+    display: flex;
 }
 
 .card-one-title {
