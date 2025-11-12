@@ -33,3 +33,10 @@ body {
 .card-container-one {
     background-color: #1F2937;
 }
+
+.card-one-title {
+    margin: 0;
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
