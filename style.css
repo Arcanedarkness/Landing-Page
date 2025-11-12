@@ -34,6 +34,8 @@ body {
     background-color: #1F2937;
     padding: 5% 15% 5% 15%;
     display: flex;
+    box-sizing: border-box;
+    height: 500px;
 }
 
 .card-one-left-side {
@@ -76,8 +78,10 @@ body {
 .card-container-two {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    box-sizing: border-box;
+    height: 500px;
+    padding-top: 5px;
 }
 
 .card-two-title {
