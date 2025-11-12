@@ -36,6 +36,11 @@ body {
     display: flex;
 }
 
+.card-one-leftside {
+    display: flex;
+    flex-direction: column;
+}
+
 .card-one-title {
     margin: 0;
     font-size: 48px;
