@@ -4,7 +4,10 @@ body {
 }
 
 .header-container {
-    background-color: #1F2937;  
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .header {
