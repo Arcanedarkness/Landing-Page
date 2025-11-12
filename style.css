@@ -37,9 +37,13 @@ body {
 }
 
 .card-one-left-side {
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
+    align-items: flex-start;
     width: 50%;
+    padding-right: 10%;
+    gap: 10px;
 }
 
 .card-one-title {
