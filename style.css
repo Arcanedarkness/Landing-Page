@@ -72,3 +72,9 @@ body {
     border-radius: 8px;
     padding: 5px 25px 5px 25px;
 }
+
+.card-two-title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
