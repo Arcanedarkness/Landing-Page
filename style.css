@@ -46,6 +46,10 @@ body {
     font-size: 18px;
 }
 
+.image-placeholder {
+    background-color: #6D747D;
+}
+
 .card-one-button {
     background-color: #3882F6;
     border: 0;
