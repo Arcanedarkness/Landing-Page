@@ -73,6 +73,13 @@ body {
     padding: 5px 25px 5px 25px;
 }
 
+.card-container-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .card-two-title {
     color: #1F2937;
     font-size: 36px;
