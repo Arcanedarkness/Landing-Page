@@ -146,4 +146,5 @@ figcaption {
     justify-content: center;
     gap: 100px;
     background-color: #3882F6;
+    border-radius: 10px;
 }
