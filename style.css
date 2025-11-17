@@ -116,6 +116,14 @@ figcaption {
     background-color: #E5E7EB;
     height: 500px;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.inspire-quote {
+    width: 1000px;
+    font-size: 36px;
+    color: #6D747D;
+    font-style: italic;
 }
