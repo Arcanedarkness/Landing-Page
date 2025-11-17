@@ -121,8 +121,11 @@ figcaption {
     justify-content: center;
 }
 
-.inspire-quote {
+.inspire-wrapper {
     width: 1000px;
+}
+
+.inspire-quote {
     font-size: 36px;
     color: #6D747D;
     font-style: italic;
