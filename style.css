@@ -150,10 +150,12 @@ figcaption {
 
 .small-card-title {
     color: #F9FAF8;
+    margin-bottom: 0;
     font-size: 24px;
 }
 
 .small-card-text {
+    margin-top: 0;
     color: #F9FAF8;
     font-size: 18px;
 }
