@@ -140,9 +140,10 @@ figcaption {
 }
 
 .card-container-small {
-    padding: 5% 15% 5% 15%;
+    margin: 5% 15% 5% 15%;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 100px;
+    background-color: #3882F6;
 }
