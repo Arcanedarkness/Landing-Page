@@ -148,3 +148,13 @@ figcaption {
     background-color: #3882F6;
     border-radius: 10px;
 }
+
+.small-card-title {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.small-card-text {
+    color: #F9FAF8;
+    font-size: 18px;
+}
