@@ -143,8 +143,7 @@ figcaption {
     margin: 5% 15% 5% 15%;
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 100px;
+    justify-content: space-evenly;
     background-color: #3882F6;
     border-radius: 10px;
 }
