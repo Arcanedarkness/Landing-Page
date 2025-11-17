@@ -32,10 +32,10 @@ body {
 
 .card-container-one {
     background-color: #1F2937;
-    padding: 5% 15% 5% 15%;
+    padding: 5% 15% 8% 15%;
     display: flex;
     box-sizing: border-box;
-    height: 500px;
+    height: fit-content;
 }
 
 .card-one-left-side {
@@ -72,6 +72,7 @@ body {
     background-color: #3882F6;
     border: 0;
     border-radius: 10px;
+    margin-top: 10px;
     padding: 10px 35px 10px 35px;
 }
 
