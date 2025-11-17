@@ -146,6 +146,8 @@ figcaption {
     justify-content: space-evenly;
     background-color: #3882F6;
     border-radius: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .small-card-title {
