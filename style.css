@@ -111,3 +111,11 @@ body {
 figcaption {
     color: #6D747D;
 }
+
+.card-container-three {
+    background-color: #E5E7EB;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
