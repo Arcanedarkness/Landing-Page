@@ -130,3 +130,11 @@ figcaption {
     color: #6D747D;
     font-style: italic;
 }
+
+.inspire-quote-author {
+    margin-right: 50px;
+    text-align: right;
+    font-size: 25px;
+    font-weight: 900;
+    color: #1F2937;
+}
