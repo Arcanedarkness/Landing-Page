@@ -171,3 +171,12 @@ figcaption {
     border-radius: 10px;
     padding: 10px 35px 10px 35px;
 }
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    height: 100px;
+}
